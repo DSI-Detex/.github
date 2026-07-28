@@ -1,4 +1,4 @@
-## Hi there 👋
+![](https://raw.githubusercontent.com/DSI-Detex/.github/refs/heads/main/detex.svg)
 
 <!--
 
