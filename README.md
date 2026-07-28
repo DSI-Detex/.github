@@ -1,1 +1,0 @@
-# Detex Corp.
